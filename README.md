@@ -1,6 +1,9 @@
 # jigsaw_game
 A simple ReactJS GAME
 
-This project was created with create-react-app
-the node_modules folder was taked of because of its size, 
-but you can see this game live at http://www.jeffersonlopes.com/games/react
+This project was created with create-react-app 
+At first it was a facebook game called facebloc. 
+He consumes facebook api allowing players to play with theyr own pictures.
+Today I let only some constant images
+
+# Hope You Have Fun 
